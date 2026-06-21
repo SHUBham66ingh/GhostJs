@@ -1,0 +1,19 @@
+{
+  "name": "ghostjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^4.1.2",
+    "cli-table3": "^0.6.5",
+    "figlet": "^1.11.0",
+    "inquirer": "^14.0.2",
+    "ora": "^9.4.0"
+  }
+}
